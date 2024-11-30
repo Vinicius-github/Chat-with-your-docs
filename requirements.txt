@@ -1,0 +1,17 @@
+beautifulsoup4==4.12.3
+ffprobe==0.5
+fsspec==2024.10.0
+langchain==0.3.7
+langchain-community==0.3.6
+llvmlite==0.43.0
+numpy==1.26.4
+openai==1.5.0
+openai-whisper==20240930
+pypdf==4.2.0
+requests==2.32.3
+tiktoken==0.8.0
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+wheel==0.44.0
+whisper==1.1.10
